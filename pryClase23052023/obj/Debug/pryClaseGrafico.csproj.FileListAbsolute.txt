@@ -1,0 +1,10 @@
+D:\Escritorio\pryClase23052023\bin\Debug\pryClase23052023.exe.config
+D:\Escritorio\pryClase23052023\bin\Debug\pryClase23052023.exe
+D:\Escritorio\pryClase23052023\bin\Debug\pryClase23052023.pdb
+D:\Escritorio\pryClase23052023\obj\Debug\pryClase23052023.Form1.resources
+D:\Escritorio\pryClase23052023\obj\Debug\pryClase23052023.Properties.Resources.resources
+D:\Escritorio\pryClase23052023\obj\Debug\pryClaseGrafico.csproj.GenerateResource.cache
+D:\Escritorio\pryClase23052023\obj\Debug\pryClaseGrafico.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryClase23052023\obj\Debug\pryClase23052023.exe
+D:\Escritorio\pryClase23052023\obj\Debug\pryClase23052023.pdb
+D:\Escritorio\pryClase23052023\obj\Debug\pryClaseGrafico.csproj.AssemblyReference.cache
